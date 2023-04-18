@@ -1,0 +1,5 @@
+wtmpconfig:
+#  登录日志转储文件目录
+  wtmpPath: D:\desk\log\wtmp
+#  输出文件目录
+  outPath: D:\desk\log\wtmp\out
